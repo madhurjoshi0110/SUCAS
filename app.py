@@ -17,7 +17,6 @@ from datetime import datetime
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
-import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from text_utils import preprocess
@@ -26,6 +25,17 @@ from priority_engine import (
     hour_priority, compute_priority, assign_workers, ticket_id, build_role_map,
 )
 from llm_workflow import llm_available, run_chat_turn, new_chat_state, get_chat_model
+
+import nltk
+
+packages = [
+    "stopwords",
+    "wordnet",
+    "omw-1.4"
+]
+
+for pkg in packages:
+    nltk.download(pkg, quiet=True)
 
 # ──────────────────────────────────────────
 # PAGE CONFIG  (must be first Streamlit call)
