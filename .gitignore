@@ -1,0 +1,17 @@
+# Model artifacts — kept out of git (large binaries), but the app needs
+# rf_model.pkl and tfidf_vectorizer.pkl physically present in this folder
+# to run. train_model.py can regenerate them if you ever need to.
+*.pkl
+
+# Raw data (contains complaint/employee records — don't commit)
+Final_Dataset.csv
+Employees.csv
+updated_data_file.csv
+
+# Python / env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+!.env.example
