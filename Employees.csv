@@ -1,0 +1,161 @@
+Employee_ID,Name,Department,Designation,Ward,Current_Workload,Max_Workload,Status,Phone,Experience
+EMP001,Karan Sharma,Road Maintenance(Engg),EE,Ward-71,3,10,Available,9181960013,8
+EMP002,Keerthi Sharma,Road Maintenance(Engg),EE,Ward-51,8,10,Available,9794026542,7
+EMP003,Naveen Reddy,Road Maintenance(Engg),AE,Ward-98,1,10,Available,9594078161,18
+EMP004,Aditya Yadav,Road Maintenance(Engg),EE,Ward-50,1,10,Available,9341316475,6
+EMP005,Sanjay Yadav,Road Maintenance(Engg),AE,Ward-172,4,10,Busy,9192832764,21
+EMP006,Suresh Shetty,Electrical,AE,Ward-59,0,10,Busy,9641395376,21
+EMP007,Varun Nair,Electrical,AEE,Ward-36,3,10,Busy,9849696532,17
+EMP008,Bhavya Kumar,Electrical,AE,Ward-29,2,10,Available,9691669784,18
+EMP009,Rahul Reddy,Electrical,EE,Ward-138,4,10,Busy,9514627048,25
+EMP010,Deepak Mishra,Electrical,AE,Ward-161,4,10,Busy,9893252880,20
+EMP011,Manoj Iyer,Forest,RFO,Ward-29,5,10,Busy,9430391171,25
+EMP012,Madhav Nair,Forest,RFO,Ward-169,7,10,On Leave,9248963834,13
+EMP013,Sanjay Gowda,Forest,DCF,Ward-116,1,10,Available,9150983930,3
+EMP014,Neha Verma,Forest,RFO,Ward-9,5,10,Available,9347382997,8
+EMP015,Anand Kulkarni,Forest,RFO,Ward-25,1,10,Available,9566701065,4
+EMP016,Pooja Joshi,Solid Waste (Garbage) Related,Marshal,Ward-138,7,10,Available,9247317810,21
+EMP017,Madhav Sharma,Solid Waste (Garbage) Related,Marshal,Ward-193,3,10,Available,9773602606,9
+EMP018,Varun Rao,Solid Waste (Garbage) Related,JHI,Ward-179,8,10,Available,9723430980,24
+EMP019,Manoj Gupta,Solid Waste (Garbage) Related,Marshal,Ward-150,7,10,Available,9820812191,22
+EMP020,Pooja Das,Solid Waste (Garbage) Related,Marshal,Ward-146,3,10,Available,9091699854,7
+EMP021,Manoj Verma,veterinary,ADAH,Ward-102,2,10,Available,9475107991,3
+EMP022,Madhav Joshi,veterinary,ADAH,Ward-34,5,10,Busy,9354278498,1
+EMP023,Akash Reddy,veterinary,Veterinary Officer,Ward-68,1,10,Busy,9824493534,17
+EMP024,Bhavya Singh,veterinary,Veterinary Officer,Ward-24,6,10,Busy,9005242786,18
+EMP025,Rahul Reddy,veterinary,Veterinary Officer,Ward-177,2,10,Available,9598262045,2
+EMP026,Anil Joshi,Lakes,Lake Officer,Ward-171,1,10,Available,9869232260,6
+EMP027,Naveen Kulkarni,Lakes,Lake Officer,Ward-69,2,10,Busy,9160733754,8
+EMP028,Suresh Sharma,Lakes,Lake Officer,Ward-103,5,10,Available,9145868501,9
+EMP029,Deepak Singh,Lakes,Lake Officer,Ward-28,6,10,Available,9569816934,2
+EMP030,Ritu Sharma,Lakes,Lake Officer,Ward-94,6,10,Available,9595148465,13
+EMP031,Aditya Nair,CORONA COVID19,Health Officer,Ward-108,6,10,Available,9299468044,7
+EMP032,Ritu Shetty,CORONA COVID19,Health Officer,Ward-114,7,10,Available,9872148951,25
+EMP033,Pooja Rao,CORONA COVID19,Health Officer,Ward-51,2,10,Available,9379176936,16
+EMP034,Kavya Verma,CORONA COVID19,Health Officer,Ward-168,0,10,Busy,9163287083,4
+EMP035,Varun Nair,CORONA COVID19,Health Officer,Ward-171,8,10,On Leave,9957986872,24
+EMP036,Anand Gowda,Parks and Play grounds,Gardener Supervisor,Ward-193,3,10,Busy,9487347143,9
+EMP037,Naveen Shetty,Parks and Play grounds,Park Officer,Ward-36,2,10,Available,9231665876,2
+EMP038,Ranganath Kulkarni,Parks and Play grounds,Gardener Supervisor,Ward-198,0,10,Busy,9967054668,24
+EMP039,Madhav Verma,Parks and Play grounds,Gardener Supervisor,Ward-57,4,10,Available,9065627298,1
+EMP040,Kavya Sharma,Parks and Play grounds,Park Officer,Ward-165,6,10,Available,9720465375,11
+EMP041,Rakesh Singh,Storm  Water Drain(SWD),AEE,Ward-65,1,10,Available,9805310033,1
+EMP042,Sneha Verma,Storm  Water Drain(SWD),AE,Ward-122,1,10,Available,9374529912,10
+EMP043,Ananya Sharma,Storm  Water Drain(SWD),AEE,Ward-148,6,10,Available,9319314919,2
+EMP044,Anil Kulkarni,Storm  Water Drain(SWD),AEE,Ward-18,8,10,Available,9067165726,6
+EMP045,Harish Singh,Storm  Water Drain(SWD),AEE,Ward-120,6,10,Busy,9945314737,19
+EMP046,Rakesh Shetty,Revenue Department,ARO,Ward-127,5,10,Available,9354549480,17
+EMP047,Harsha Kumar,Revenue Department,ARO,Ward-185,6,10,Available,9377701436,23
+EMP048,Pooja Rao,Revenue Department,RO,Ward-122,8,10,Available,9685574443,4
+EMP049,Harsha Shetty,Revenue Department,ARO,Ward-191,8,10,On Leave,9233749894,4
+EMP050,Harsha Rao,Revenue Department,ARO,Ward-93,2,10,Available,9824008427,4
+EMP051,Rahul Rao,Health Dept,Medical Officer,Ward-123,7,10,Available,9047116719,21
+EMP052,Neha Nair,Health Dept,MOH,Ward-145,4,10,Available,9318699938,13
+EMP053,Abhishek Gowda,Health Dept,Medical Officer,Ward-151,6,10,Available,9909133412,8
+EMP054,Deepak Kumar,Health Dept,MOH,Ward-1,6,10,Available,9974034471,22
+EMP055,Suresh Singh,Health Dept,MOH,Ward-109,1,10,Available,9242102499,10
+EMP056,Abhishek Reddy,Advertisement,Advertisement Officer,Ward-177,4,10,Available,9488771906,24
+EMP057,Manoj Singh,Advertisement,Advertisement Officer,Ward-24,3,10,On Leave,9990490278,21
+EMP058,Abhishek Singh,Advertisement,Advertisement Officer,Ward-150,6,10,Available,9717565512,11
+EMP059,Swathi Iyer,Advertisement,Advertisement Officer,Ward-170,6,10,Busy,9807154516,17
+EMP060,Rahul Gowda,Advertisement,Advertisement Officer,Ward-14,3,10,Available,9977034824,15
+EMP061,Bhavya Reddy,Sanitation,JHI,Ward-162,3,10,Busy,9480861317,4
+EMP062,Sneha Iyer,Sanitation,Marshal,Ward-75,8,10,Busy,9677378263,20
+EMP063,Keerthi Nair,Sanitation,JHI,Ward-71,6,10,Available,9840449972,15
+EMP064,Madhav Iyer,Sanitation,SHI,Ward-86,8,10,Busy,9675339636,2
+EMP065,Manoj Iyer,Sanitation,Marshal,Ward-98,6,10,On Leave,9270289517,4
+EMP066,Harish Gowda,Others,Officer,Ward-185,2,10,Available,9217459615,22
+EMP067,Madhav Das,Others,Officer,Ward-161,7,10,Busy,9091343161,25
+EMP068,Ananya Gowda,Others,Officer,Ward-178,4,10,On Leave,9050455623,17
+EMP069,Swathi Patel,Others,Officer,Ward-45,1,10,Available,9693792374,15
+EMP070,Nikhil Sharma,Others,Officer,Ward-74,8,10,Available,9759464743,13
+EMP071,Anand Reddy,Town Planning,ADTP,Ward-98,5,10,Available,9406409097,10
+EMP072,Suresh Yadav,Town Planning,ADTP,Ward-163,3,10,Available,9210470952,3
+EMP073,Aditya Shetty,Town Planning,DDTP,Ward-45,3,10,Available,9858842474,24
+EMP074,Naveen Reddy,Town Planning,DDTP,Ward-20,2,10,Busy,9368516048,4
+EMP075,Varun Yadav,Town Planning,DDTP,Ward-150,6,10,Busy,9513709859,8
+EMP076,Rohit Gowda,Optical Fiber Cables (OFC),OFC Engineer,Ward-167,6,10,Available,9004711382,13
+EMP077,Varun Yadav,Optical Fiber Cables (OFC),OFC Engineer,Ward-151,2,10,Busy,9179640537,15
+EMP078,Pooja Yadav,Optical Fiber Cables (OFC),OFC Engineer,Ward-176,5,10,Available,9506431713,21
+EMP079,Aman Gupta,Optical Fiber Cables (OFC),OFC Engineer,Ward-63,2,10,Busy,9318393352,20
+EMP080,Rahul Singh,Optical Fiber Cables (OFC),OFC Engineer,Ward-34,8,10,Available,9210205395,1
+EMP081,Deepak Singh,Welfare Schemes,Welfare Officer,Ward-33,6,10,Available,9177589178,8
+EMP082,Priya Mishra,Welfare Schemes,Welfare Officer,Ward-118,0,10,Available,9766177115,20
+EMP083,Sneha Kumar,Welfare Schemes,Welfare Officer,Ward-71,8,10,Busy,9698478961,23
+EMP084,Karan Joshi,Welfare Schemes,Welfare Officer,Ward-116,3,10,Available,9766156545,5
+EMP085,Anand Kumar,Welfare Schemes,Welfare Officer,Ward-22,1,10,Available,9528098851,14
+EMP086,Anil Kulkarni,Estate,Estate Officer,Ward-74,4,10,Available,9983273158,12
+EMP087,Karan Singh,Estate,Estate Officer,Ward-110,8,10,On Leave,9998094024,23
+EMP088,Akash Shetty,Estate,Estate Officer,Ward-2,2,10,Busy,9961201836,14
+EMP089,Varun Shetty,Estate,Estate Officer,Ward-95,4,10,Busy,9991022901,9
+EMP090,Abhishek Kulkarni,Estate,Estate Officer,Ward-156,7,10,Available,9381561497,17
+EMP091,Akash Gupta,Markets,Market Officer,Ward-102,0,10,Available,9432445107,24
+EMP092,Ritu Patel,Markets,Market Officer,Ward-98,8,10,Busy,9885160607,3
+EMP093,Manoj Kulkarni,Markets,Market Officer,Ward-182,6,10,Available,9605297516,4
+EMP094,Pooja Kulkarni,Markets,Market Officer,Ward-135,1,10,Available,9453521818,17
+EMP095,Harsha Yadav,Markets,Market Officer,Ward-187,2,10,Available,9243292127,15
+EMP096,Abhishek Shetty,Education,Education Officer,Ward-39,7,10,Available,9744905814,15
+EMP097,Abhishek Gupta,Education,Education Officer,Ward-95,4,10,Available,9199867980,15
+EMP098,Harsha Shetty,Education,Education Officer,Ward-129,2,10,On Leave,9715182037,15
+EMP099,Harish Mishra,Education,Education Officer,Ward-94,5,10,On Leave,9665905151,18
+EMP100,Rakesh Rao,Education,Education Officer,Ward-186,2,10,Available,9925462914,18
+EMP101,Rakesh Shetty,Road Infrastructure,Civil Engineer,Ward-172,8,10,Available,9685054235,25
+EMP102,Bhavya Joshi,Road Infrastructure,Civil Engineer,Ward-36,2,10,Available,9188805929,13
+EMP103,Sneha Patel,Road Infrastructure,Civil Engineer,Ward-178,2,10,Busy,9065379473,18
+EMP104,Pooja Rao,Road Infrastructure,Civil Engineer,Ward-50,5,10,Available,9977468862,7
+EMP105,Meera Singh,Road Infrastructure,Civil Engineer,Ward-165,7,10,Busy,9818141247,17
+EMP106,Sneha Kulkarni,Plastic,Environmental Officer,Ward-57,7,10,Busy,9060685361,12
+EMP107,Suresh Sharma,Plastic,Environmental Officer,Ward-26,5,10,Busy,9204727790,3
+EMP108,Aman Singh,Plastic,Environmental Officer,Ward-39,8,10,On Leave,9986143410,8
+EMP109,Swathi Gowda,Plastic,Environmental Officer,Ward-29,7,10,Available,9089324609,12
+EMP110,Pooja Kulkarni,Plastic,Environmental Officer,Ward-171,1,10,Available,9518888806,16
+EMP111,Priya Das,Traffic Engineer Cell (TEC),Traffic Engineer,Ward-65,0,10,Available,9153195205,18
+EMP112,Naveen Patel,Traffic Engineer Cell (TEC),Traffic Engineer,Ward-179,7,10,Available,9217043030,11
+EMP113,Akash Mishra,Traffic Engineer Cell (TEC),Traffic Engineer,Ward-140,7,10,Available,9345054156,13
+EMP114,Abhishek Das,Traffic Engineer Cell (TEC),Traffic Engineer,Ward-48,7,10,Available,9584161692,18
+EMP115,Aditya Shetty,Traffic Engineer Cell (TEC),Traffic Engineer,Ward-21,5,10,Available,9479627570,24
+EMP116,Anil Kulkarni,BBMP Election Branch,Election Officer,Ward-164,0,10,Available,9658202970,5
+EMP117,Rohit Verma,BBMP Election Branch,Election Officer,Ward-93,6,10,On Leave,9092755719,5
+EMP118,Harish Yadav,BBMP Election Branch,Election Officer,Ward-81,4,10,Available,9102786814,25
+EMP119,Nikhil Gowda,BBMP Election Branch,Election Officer,Ward-157,4,10,Available,9731217271,22
+EMP120,Manoj Yadav,BBMP Election Branch,Election Officer,Ward-141,8,10,Available,9422583132,8
+EMP121,Bhavya Sharma,Call Center,Customer Support Representative,Ward-142,5,10,Available,9829114678,14
+EMP122,Swathi Kumar,Call Center,Customer Support Representative,Ward-82,1,10,Available,9852892268,2
+EMP123,Karan Mishra,Call Center,Customer Support Representative,Ward-78,2,10,Available,9358414384,5
+EMP124,Akash Kumar,Call Center,Customer Support Representative,Ward-152,2,10,Available,9995900109,9
+EMP125,Ranganath Kulkarni,Call Center,Customer Support Representative,Ward-128,8,10,Available,9473647102,15
+EMP126,Swathi Iyer,Major Roads,Executive Engineer,Ward-53,5,10,Available,9555625881,11
+EMP127,Pooja Gowda,Major Roads,Executive Engineer,Ward-69,7,10,Available,9104696325,19
+EMP128,Manoj Joshi,Major Roads,Executive Engineer,Ward-128,8,10,Available,9470168733,19
+EMP129,Anil Gupta,Major Roads,Executive Engineer,Ward-73,7,10,Available,9748016245,25
+EMP130,Kavya Yadav,Major Roads,Executive Engineer,Ward-103,0,10,Available,9358416878,9
+EMP131,Karan Nair,Information Technology,System Admin,Ward-101,5,10,Busy,9585239868,2
+EMP132,Priya Gupta,Information Technology,System Admin,Ward-183,5,10,Busy,9872982595,6
+EMP133,Kavya Rao,Information Technology,System Admin,Ward-130,8,10,Available,9947055169,10
+EMP134,Aman Iyer,Information Technology,System Admin,Ward-168,3,10,Busy,9972896230,19
+EMP135,Karan Joshi,Information Technology,System Admin,Ward-113,5,10,Available,9636897028,7
+EMP136,Manoj Iyer,Indira Canteen,Canteen Manager,Ward-81,2,10,Available,9858549733,9
+EMP137,Akash Verma,Indira Canteen,Canteen Manager,Ward-198,4,10,Busy,9757584419,22
+EMP138,Madhav Das,Indira Canteen,Canteen Manager,Ward-89,2,10,Available,9415747338,9
+EMP139,Shivam Nair,Indira Canteen,Canteen Manager,Ward-158,3,10,Available,9833016571,22
+EMP140,Meera Sharma,Indira Canteen,Canteen Manager,Ward-105,7,10,Available,9345401938,24
+EMP141,Priya Patel,Water Crisis,Water Officer,Ward-46,0,10,On Leave,9672400499,4
+EMP142,Naveen Rao,Water Crisis,Water Officer,Ward-165,8,10,Available,9287431527,21
+EMP143,Nikhil Patel,Water Crisis,Water Officer,Ward-189,5,10,Busy,9932966851,13
+EMP144,Ananya Patel,Water Crisis,Water Officer,Ward-123,5,10,On Leave,9046374549,24
+EMP145,Rahul Singh,Water Crisis,Water Officer,Ward-178,3,10,Available,9174268414,12
+EMP146,Suresh Verma,Projects Central,Project Manager,Ward-123,2,10,Available,9956878339,3
+EMP147,Harish Gowda,Projects Central,Project Manager,Ward-20,1,10,Available,9883982258,15
+EMP148,Karan Joshi,Projects Central,Project Manager,Ward-24,8,10,Available,9072867908,15
+EMP149,Akash Sharma,Projects Central,Project Manager,Ward-66,0,10,Busy,9910651801,16
+EMP150,Priya Rao,Projects Central,Project Manager,Ward-47,2,10,Busy,9656766182,21
+EMP151,Anil Reddy,E khata / Khata services,Khata Officer,Ward-138,6,10,Available,9300478686,8
+EMP152,Pooja Gowda,E khata / Khata services,Khata Officer,Ward-40,4,10,Available,9106903311,20
+EMP153,Priya Gowda,E khata / Khata services,Khata Officer,Ward-63,0,10,Available,9383028439,11
+EMP154,Manoj Verma,E khata / Khata services,Khata Officer,Ward-37,8,10,Available,9440892687,2
+EMP155,Anil Das,E khata / Khata services,Khata Officer,Ward-179,6,10,Available,9462873342,15
+EMP156,Neha Kulkarni,Property Tax services,Tax Officer,Ward-143,8,10,Available,9343517518,24
+EMP157,Harsha Gupta,Property Tax services,Tax Officer,Ward-97,0,10,Busy,9398373540,7
+EMP158,Harsha Reddy,Property Tax services,Tax Officer,Ward-63,3,10,Available,9385467854,9
+EMP159,Sanjay Mishra,Property Tax services,Tax Officer,Ward-120,1,10,Busy,9753556093,24
+EMP160,Sneha Sharma,Property Tax services,Tax Officer,Ward-142,6,10,Available,9353693785,9
